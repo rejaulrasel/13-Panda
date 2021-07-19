@@ -1,0 +1,19 @@
+.background-clr{
+    background-color: #fceae8;
+}
+.categories img{
+    width: 100px;
+}
+.panda-bg-warning{
+    background-color: #ffa500;
+}
+.bag-bg-clr{
+    background-color: #da70d6;
+}
+.btn-background{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
